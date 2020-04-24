@@ -2,8 +2,7 @@
 
 ## NPM Scripts
 
-* 🔥 `start` - run development server
-* 🔧 `serve` - run development server
+* 🔥 `import` - into pyCharm
 
 ## How does it work?
 
