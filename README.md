@@ -1,8 +1,8 @@
 # News classificator with Word2Vec (Deep-Learning algorithm)
 
-## NPM Scripts
+## init
 
-* 🔥 `import` - into pyCharm
+* 🔥 `import` - run.py
 
 ## How does it work?
 
