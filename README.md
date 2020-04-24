@@ -1,4 +1,4 @@
-# Word2Vec (Deep-Learning algorithm)
+# News classificator with Word2Vec (Deep-Learning algorithm)
 
 ## NPM Scripts
 
